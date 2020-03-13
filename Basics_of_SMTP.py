@@ -1,6 +1,7 @@
-'''SMTP stands for simple mail transfer protocol.'''
+'''SMTP stands for simple mail transfer protocol.SMTP is a set of communication guidelines that allow software to transmit an electronic mail over the internet is called Simple Mail Transfer Protocol. 
+It is a program used for sending messages to other computer users based on e-mail addresses.'''
 import os
-email_id=os.environ.get('MY_EMAIL')
+email_id=os.environ.get('MY_EMAIL') #values are stored in environment variables in order to maintain privacy. 
 email_pass=os.environ.get('GMAIL_APP_PASS')
 import smtplib
 
