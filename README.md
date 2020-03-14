@@ -8,6 +8,7 @@ Covers the basics of sending mail via python.
 
 
 References:
+
 https://www.freecodecamp.org/news/send-emails-using-code-4fcea9df63f/
 
 https://realpython.com/python-send-email/
