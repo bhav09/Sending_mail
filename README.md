@@ -1,5 +1,5 @@
 # Sending_mail
-Covers the basics of sending mail via python.
+Covers the basics of sending an e-mail via python.
 
 1.Sending mail to your own self (Basics_of_SMTP.py)
 
