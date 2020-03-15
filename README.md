@@ -1,6 +1,10 @@
 # Sending_mail
 Covers the basics of sending an e-mail via python.
 
+Dependencies:
+
+smtp=in built package.
+
 1.Sending mail to your own self (Basics_of_SMTP.py)
 
 2.Creating a Debugging server for testing(Local_Debugserver.py)
